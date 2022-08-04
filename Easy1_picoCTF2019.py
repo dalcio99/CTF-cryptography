@@ -1,6 +1,5 @@
 # picoCTF2019
-# Easy1
-# authors: Alex Fulton/Danny 
+# Easy1 
 
 cyph= "UFJKXQZQUNB"
 cyph_list = []
