@@ -1,4 +1,5 @@
-#!/usr/bin/python
+# picoCTF2020
+# Very Smooth
 
 # Disclaimer: implementation of Pollard's algorithm taken from https://www.geeksforgeeks.org/pollard-p-1-algorithm/ 
 # notice that using pow() in line 15 is much more efficient than 'a**i % n'
