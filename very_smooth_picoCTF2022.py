@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Disclaimer: implementation of pollard taken from https://www.geeksforgeeks.org/pollard-p-1-algorithm/ 
+# Disclaimer: implementation of Pollard's algorithm taken from https://www.geeksforgeeks.org/pollard-p-1-algorithm/ 
 # notice that using pow() in line 15 is much more efficient than 'a**i % n'
 
 
