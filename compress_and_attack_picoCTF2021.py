@@ -28,5 +28,5 @@ while '}' not in flag:
         except:
             r = remote("mercury.picoctf.net",33976)
     flag += best_guess
-    best_length += 1 # otherwise '0' (the first element of the list) would be lost
+    best_length += 1 # otherwise the first tried element could be lost
     print(flag)
