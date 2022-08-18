@@ -1,6 +1,6 @@
 # CTF-cryptography
 
-Some solutions of cryptography games.
+Some solutions of cryptography challenges
 
 
 ----------------------------------
